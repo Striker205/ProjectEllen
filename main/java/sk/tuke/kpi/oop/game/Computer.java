@@ -4,7 +4,7 @@ import sk.tuke.kpi.gamelib.framework.AbstractActor;
 import sk.tuke.kpi.gamelib.graphics.Animation;
 
 public class Computer extends AbstractActor implements EnergyConsumer{
-    private boolean condition;
+    private boolean condition_this_end;
 
     public Computer() {
         this.condition = false;
