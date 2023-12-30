@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Objects;
 
 
+
 public class ChainBomb extends TimeBomb {
     private Rectangle2D rectangle2D;
 
