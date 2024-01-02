@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    name: build
+    name: Build
     runs-on: ubuntu-latest
     permissions: read-all
     steps:
