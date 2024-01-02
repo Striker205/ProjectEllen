@@ -7,6 +7,7 @@ import sk.tuke.kpi.oop.game.Movable;
 
 import java.util.Objects;
 
+
 public class Move<actor extends Movable> implements Action<actor> {
 
     private Direction direction;
